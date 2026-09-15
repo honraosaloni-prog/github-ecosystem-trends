@@ -62,13 +62,7 @@ These are standard caveats for developer-ecosystem analytics rather than flaws s
 
 `Python` · `pandas` · `matplotlib` · `requests` · `GitHub REST API`
 
-## Files
+## Graphs
 
-```
-├── tech_ecosystem_growth_analysis.ipynb   # main notebook
-├── colab_selfcontained.py                 # single-cell version, data embedded
-├── fetch_quarter.py                       # API extraction script
-├── language_activity_final.csv
-├── ai_topic_rows.csv
-└── ai_tool_snapshot.csv
-```
+<img width="1087" height="587" alt="OP1" src="https://github.com/user-attachments/assets/1f3cb779-ce8d-4692-ac84-8e0a9ce63074" />
+
