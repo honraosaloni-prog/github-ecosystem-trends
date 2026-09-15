@@ -65,4 +65,9 @@ These are standard caveats for developer-ecosystem analytics rather than flaws s
 ## Graphs
 
 <img width="1087" height="587" alt="OP1" src="https://github.com/user-attachments/assets/1f3cb779-ce8d-4692-ac84-8e0a9ce63074" />
+<img width="882" height="486" alt="OP2" src="https://github.com/user-attachments/assets/293aad30-f267-40e0-bc68-6c3d7b0c6bdd" />
+<img width="1086" height="587" alt="OP3" src="https://github.com/user-attachments/assets/cefcd60f-c3cf-49e7-a056-9a108452ef3b" />
+<img width="887" height="486" alt="OP4" src="https://github.com/user-attachments/assets/b4d77b84-db2e-4828-8465-f5e9c9f6bd09" />
+<img width="887" height="537" alt="OP5" src="https://github.com/user-attachments/assets/87a6d41e-c382-4a2f-88d6-9e0fa85290bc" />
+
 
