@@ -1,3 +1,4 @@
+
 # Tech Ecosystem Growth Analysis: Programming Languages & AI Tooling Adoption
 
 Analysis of how programming language adoption and AI tooling development have shifted on GitHub between Q3 2023 and Q2 2026, using live-pulled API data.
